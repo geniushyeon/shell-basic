@@ -1,0 +1,14 @@
+total 624
+drwxrwxr-x@ 13 jamie  staff     416  7 26 15:11 .
+drwxr-xr-x   6 jamie  staff     192  7 28 09:07 ..
+drwxrwxr-x@  7 jamie  staff     224  5 20  2020 File
+-rw-rw-rw-@  1 jamie  staff      72  7 26 14:43 Separator.txt
+-rw-rw----@  1 jamie  staff   65942  5 15  2020 aa.txt
+-rw-------@  1 jamie  staff      40  7 26 14:38 amin.txt
+-rw-rw----@  1 jamie  staff   65942  5 15  2020 bb.txt
+-rw-rw-r--@  1 jamie  staff     750  5 13  2020 expression.tar.gz
+-rw-------@  1 jamie  staff     717  5 21  2020 expression.txt
+-rw-rw-r--@  1 1001   1001        0  5 22  2020 findtestfile
+-rwxr-xr-x@  1 jamie  staff  159024  5 13  2020 grep-test
+drwxrwxr-x@  6 jamie  staff     192  5 21  2020 pattern
+-r--r--r--@  1 jamie  staff     721  5 19  2020 test.txt
