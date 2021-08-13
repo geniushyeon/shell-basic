@@ -10,3 +10,4 @@
 2. [파일을 찾을 수 있는 find](TIL/most-commonly-used-linux-command-2)
 3. [특정 인덱스 문자열을 출력할 수 있는 awk](TIL/most-commonly-used-linux-command-3)
 4. [찾은 문자열을 바꿀 수 있는 sed](TIL/most-commonly-used-linux-command-4)
+5. [날짜와 시간을 알려주는 date](TIL/most-commonly-used-linux-command-5)
